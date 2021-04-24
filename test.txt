@@ -1,4 +1,3 @@
-hello
-word
-bruda
-field
+51
+15
+11
